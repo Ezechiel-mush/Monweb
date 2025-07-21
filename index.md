@@ -1,7 +1,7 @@
 ---
-title: Accueil
+lavandes shop
 ---
-# Bienvenue sur mon site
+# Bonjour Bienvenue sur mon site
 
 **[➡️ Voir notre boutique](/boutique/)**
 
