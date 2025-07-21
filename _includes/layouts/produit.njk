@@ -1,0 +1,19 @@
+<main>
+  {% if image %}
+    <img src="{{ image }}" alt="Image de {{ title }}" style="max-width: 100%; height: auto;">
+  {% endif %}
+
+  <h1>{{ title }}</h1>
+
+  <p><strong>Prix : {{ price }} €</strong></p>
+
+  <hr>
+
+  <div>
+    {{ content | safe }}
+  </div>
+
+  <a href="{{ lien_achat }}" target="_blank" rel="noopener noreferrer" class="buy-button">
+    Acheter
+  </a>
+</main>

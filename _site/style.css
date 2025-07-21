@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4; /* Un gris très clair */
+  color: #333; /* Un gris foncé pour le texte */
+  margin: 0;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #0056b3; /* Un bleu foncé pour les titres */
+}.buy-button {
+  display: inline-block;
+  padding: 15px 25px;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #28a745;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.buy-button:hover {
+  background-color: #218838;
+}

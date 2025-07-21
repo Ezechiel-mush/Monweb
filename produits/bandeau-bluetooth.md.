@@ -1,0 +1,8 @@
+---
+title: Bandeau Bluetooth Sans Fil
+price: 11.99
+tags: product
+layout: layouts/produit.njk
+lien_achat: https://lavandes.bigcartel.com/product/bandeau-bluetooth-sans-fil
+image: /img/nom-de-ton-image.jpg
+---

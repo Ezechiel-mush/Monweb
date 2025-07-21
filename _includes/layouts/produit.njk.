@@ -1,0 +1,7 @@
+<main>
+  {% if image %}
+    <img src="{{ image }}" alt="Image de {{ title }}">
+  {% endif %}
+  <h1>{{ title }}</h1>
+  ...
+</main>
